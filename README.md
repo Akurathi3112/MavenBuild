@@ -1,4 +1,4 @@
-HelloWorld. This is Rakesh Akurathi.Learing Devops from Simplilearn. His way of teaching Servlet example with corresponding Dockerfile
+HelloWorld. This is Rakesh Akurathi.Learing Devops from Simplilearn. nice Nice His way of teaching Servlet example with corresponding Dockerfile
 
 Use Maven Build first to create war file in Target folder.
 
